@@ -1,0 +1,5 @@
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.Models\bin\Debug\SWCCorp.Models.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.Models\bin\Debug\SWCCorp.Models.pdb
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.pdb
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.csprojAssemblyReference.cache

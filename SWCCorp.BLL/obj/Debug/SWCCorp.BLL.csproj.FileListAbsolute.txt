@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.BLL.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.BLL.pdb
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Data.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Models.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Data.pdb
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Models.pdb
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.csproj.CopyComplete
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.dll
+C:\Users\steph\source\repos\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.pdb
